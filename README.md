@@ -1,2 +1,2 @@
-# neptun-framework
-Neptun Framework is dedicated for PHP Applications
+# Neptune Framework
+Neptune Framework is dedicated for PHP Applications
